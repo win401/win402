@@ -310,3 +310,19 @@ main .section3 .img p span {
   display: block;
   font-family: "Montserrat", sans-serif;
 }
+
+main .section3 .img .img1 {
+  position: relative;
+}
+
+main .section3 .img .img1 .l-arrow {
+  position: absolute;
+  left: 10px;
+  top: 40%;
+  background-color: #ddd;
+  color: white;
+}
+
+main .section3 .img .img1 .l-arrow svg {
+  fill: white;
+}
